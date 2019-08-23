@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GP_22_DMP" target="1.8" />
+      <module name="GP_22_DMP" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
